@@ -1,3 +1,4 @@
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/CcpVYLugckSJfrr1uo/video" width="480"></iframe></div>
 <h1 align="center">Hi 👋, I'm Miles Taukoorah</h1>
 <h3 align="center">I thrive in the dynamic realm of technology, constantly exploring new frameworks, languages, and tools. From front-end magics to server-side wizardry with frontend Rizz, I love the entire stack.</h3>
 

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Miles Taukoorah</h1>![meditation-hippie](https://github.com/Avish24x/Avish24x/assets/118269155/7a98d33b-a628-460d-bbca-1469bc95d998)
+<h1 align="center">Hi 👋, I'm Miles Taukoorah</h1>
 
 <h3 align="center">I thrive in the dynamic realm of technology, constantly exploring new frameworks, languages, and tools. From front-end magics to server-side wizardry with frontend Rizz, I love the entire stack.</h3>
 

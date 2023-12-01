@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Miles Taukoorah</h1>
+<h1 align="center">Hi 👋, I'm Milesh Taukoorah</h1>
 
 <h3 align="center">I thrive in the dynamic realm of technology, constantly exploring new frameworks, languages, and tools. From front-end magics to server-side wizardry with frontend Rizz, I love the entire stack.</h3>
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Milesh Taukoorah</h1>
 
-<h3 align="center">I thrive in the dynamic realm of technology, constantly exploring new frameworks, languages, and tools. From front-end magics to server-side wizardry with frontend Rizz, I love the entire stack.</h3>
+<h3 align="center">I thrive in the dynamic realm of technology, constantly exploring new frameworks, languages, and tools. From front-end magics to server-side wizardry Rizz, I love the entire stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish24x&label=Profile%20views&color=0e75b6&style=flat" alt="avish24x" /> </p>
 
